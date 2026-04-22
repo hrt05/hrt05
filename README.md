@@ -13,7 +13,7 @@
 
 <br/>
 
-<img src="">
+<img src="/github-user-contribution.svg">
 
 <table align="center">
   <tr>
