@@ -32,8 +32,8 @@
         <br/>
         <strong>other</strong>
         <br/>
-        <br/>
-        <img src="https://skillicons.dev/icons?i=html,css,python,django,java,go,ruby&theme=dark" />
+        <img src="https://skillicons.dev/icons?i=js,python,django,java,go,ruby&theme=dark" />
+        <img src="https://skillicons.dev/icons?i=tailwind,figma,aws,firebase,postgres&theme=dark" />
       </p>
     </td>
   </tr>
